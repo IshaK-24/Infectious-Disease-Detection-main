@@ -1,6 +1,3 @@
-
----
-
 ## 🔍 Problem Statement
 
 Malaria remains a major public health challenge in low- and middle-income countries, with unequal healthcare access and underreporting complicating control efforts. The project aims to leverage data science to:
